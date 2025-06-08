@@ -16,18 +16,17 @@ It includes:
 - SSL/TLS encryption via Let's Encrypt
 - Custom Bash scripts for uptime tracking and visitor logging
 
-## 📁 Files Included
+Files Included
 - `uptime_plus_cpu.sh` – Logs uptime, CPU, memory, and disk usage
 - `visitor_logger.sh` – Logs top 5 visitor IPs from Apache logs
 - `visitor_log.txt` – Output example
 - `server_status.txt` – Uptime and system stats
 - `assignment_documentation.pdf` – Full project documentation
 
-## 🎥 Video Explainer
+Video Explainer
 
-Watch here: [LINK TO YOUR YOUTUBE/DRIVE VIDEO]
+Watch here: 
 
-## 📎 Live Demo
 
 - Website: [https://prabashrealestates.store](https://prabashrealestates.store)  
 - Visitor Log: [https://prabashrealestates.store/visitor_log.txt](https://prabashrealestates.store/visitor_log.txt)
